@@ -20,5 +20,6 @@ Throughout this course I learned about:
 - How to work with GRAPHQL 
 - How to use Node combined with Typescript 
 
+AND an important lesson was to learn how to deploy a node application
 
 I will be able to work on fullstack projects with my current knowledge of Frontend and Backend development. More to come on my github 
